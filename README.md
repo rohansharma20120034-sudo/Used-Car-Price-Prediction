@@ -1,21 +1,22 @@
 # Used-Car-Price-Prediction
+
 Machine learning project using Random Forest and Scikit-Learn to predict Indian used car prices.
-Tools & Libraries Used
-•Python
-•Pandas (For data manipulation, cleaning)
-•Numpy (For numerical computing, array operations, and mathematical functions on dataset)
-•Scikit-Learn(Providing  the code machine learning algorithm)
-•Matplotlib (For Creating Graphs based on dataset)
 
+## Technologies & Libraries Used
 
-Main Algorithm Used
-•Random Forest Regressor
+* **Python:** Programming language used for development.
+* **Pandas:** For data manipulation, cleaning, and preprocessing.
+* **NumPy:** For numerical computing, array operations, and mathematical functions on the dataset.
+* **Scikit-Learn:** Providing the machine learning algorithm and evaluation tools.
+* **Matplotlib:** For creating graphs and data visualizations based on the dataset.
 
-▪︎ HOW TO RUN CODE
+## Main Algorithm Used
+
+* **Random Forest Regressor**
+
+## How to Run
+
+Install the required libraries by running the following command in your terminal:
+
+```bash
 pip install pandas numpy scikit-learn matplotlib
-
-
-
-
- 
-
